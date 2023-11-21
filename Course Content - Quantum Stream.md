@@ -30,6 +30,20 @@
 ## S22
 
 ## W23
+|Week| 	Date 	  |Lecture Material|
+|--- | ---        | --- |
+|1   |	Jan. 9th 	|Introduction to Quantum Mechanics Stern-Gerlach experiments (1-4)|
+|2   |	Jan. 16th |	Quantum State Vectors|
+|3   |	Jan. 23rd |	Basis definition, Matrix Notation General Quantum Systems|
+|4   |	Feb. 6th 	|Operators, Eigenstates and Eigenvalues Expectation values|
+|5   |	Feb. 13th |	Mixed State, Density Operator, Projection operators Commutators and Uncertainty|
+|6   |	Feb. 19th |	Reading Week|
+|7   |	Feb. 27th |	Time dependence, Schrodinger Equation Dynamics for Mme indep. Hamiltonian|
+|8   |	Mar. 6th 	|Spin Precession, Magnetic Resonance|
+|9   |	Mar. 13th |	Continuous Observables in QM Wavefunctions and wave mechanics|
+|10  | 	Mar. 20th |	Infinite Potential Well|
+|11  | 	Mar. 27th |	Quantum Harmonic Oscillator|
+|12  | 	Apr. 3rd 	|Free Particle Eigenstates / Scattering of Unbound States|
 
 ## S23
 | Week (estimated) | Topics |
