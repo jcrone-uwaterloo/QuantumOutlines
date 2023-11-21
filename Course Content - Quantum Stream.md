@@ -9,9 +9,7 @@
 ## W23
 
 # PHYS 234  
-## S22
 ## W22
-
 |Week #| week start date | Lecture Material | Textbook Chapter |
 | --- | --- | --- | --- |
 |1 | Jan 05 | Introduction to Quantum Physics, Stern-Gerlach experiments |1|
@@ -29,6 +27,10 @@
 |13| Mar 28 |Quantum harmonic oscillator |9|
 |14| Apr 04 |Review ||
 
+## S22
+
+## W23
+
 ## S23
 | Week (estimated) | Topics |
 | --- | --- |
@@ -38,8 +40,6 @@
 |6-10| 	The time-independent Schrödinger equation for one dimensional problems.|
 | 11 | Spin.|
 | 12 | Review.|
-
-## W23
 
 # PHYS 334  
 ## W22
