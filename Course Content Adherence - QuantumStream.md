@@ -13,7 +13,7 @@
 |LRC circuits|  |  |  |  |
 |introduction to magnetic fields|  |  |  |  |
 |Lorentz Force|  |  |  |  |
-|Notes on level of detail in outline|  |  |  |  Outline not currently available (Guenter Scholz – request sent)|
+|Notes on level of detail in outline|  |  |  |  Outline not currently available (request sent)|
 |Instructor|  |  |  |  Guenter Scholz|
 
 *X = Explicitly stated in course outline
@@ -33,34 +33,34 @@
 *X = Explicitly stated in course outline
 
 # PHYS 234
-|     | W22  | W23 | 
-| --- | --- | --- |
-|Background of quantum physics. |  |  |  
-|Introduction to formalism of quantum physics. |  |  | 
-|Introduction to operators. |  |  |  
-|Quantization, waves, and particles. |  |  |  
-|The uncertainty principle. |  |  |  
-|The Schroedinger equation for one-dimensional problems: bound states in square wells, harmonic oscillator, transmission through barriers.|  |  |
-|Notes on level of detail in outline|  |  |  
-|Instructor|  |  |  
+|     | W22 | S22 | W23 | S23 |
+| --- | --- | --- | --- | --- |
+|Background of quantum physics. |  |  |  |  |  
+|Introduction to formalism of quantum physics. |  |  |  |  |
+|Introduction to operators. |  |  |  |  |
+|Quantization, waves, and particles. |  |  |  |  |
+|The uncertainty principle. |  |  |  |  |
+|The Schroedinger equation for one-dimensional problems: bound states in square wells, harmonic oscillator, transmission through barriers.|  |  |  |  |
+|Notes on level of detail in outline|  | Outline not currently available (request sent) | Outline not currently available (request sent) | Broad topic given for 2-3 week chunks of course|
+|Instructor| Kazi Rajibul Islam | Michel Gingras | Raffi Budakian | Russell Thompson |
 
 *X = Explicitly stated in course outline
 
 # PHYS 334
-|     | W22 | S22 | W23 | S23 |
-| --- | --- | --- | --- | --- |
-|Formalism of quantum mechanics|  |  |  |  |
-|Operator approach to the harmonic oscillator|  |  |  |  |
-|Quantum mechanics in three dimensions: Hydrogen atom, angular momentum and spin. |  |  |  |  |
-|Time-independent perturbation theory.|  |  |  |  |
-|Fine structure of hydrogen. |  |  |  |  |
-|Zeeman effect. |  |  |  |  |
-|Identical particles. |  |  |  |  |
-|The variational principle.|  |  |  |  |
-|Ground state of the helium atom. |  |  |  |  |
-|Applications in atomic and molecular physics|  |  |  |  |
-|Notes on level of detail in outline|  |  |  |  |
-|Instructor|  |  |  |  |  
+|     | W22  | W23 | 
+| --- | --- | --- |
+|Formalism of quantum mechanics|  |  |  
+|Operator approach to the harmonic oscillator|  |  |
+|Quantum mechanics in three dimensions: Hydrogen atom, angular momentum and spin. |  |  |
+|Time-independent perturbation theory.|  |  | 
+|Fine structure of hydrogen. |  |  |
+|Zeeman effect. |  |  |
+|Identical particles. |  |  | 
+|The variational principle.|  |  |
+|Ground state of the helium atom. |  |  |
+|Applications in atomic and molecular physics|  |  |
+|Notes on level of detail in outline|  |  | 
+|Instructor| Crystal Senko | Crystal Senko |
 
 *X = Explicitly stated in course outline
 
@@ -78,7 +78,7 @@
 |Lamb shift. |  |  |
 |Elements of scattering theory. |  |  |
 |Introduction to the Dirac equation|  |  |
-|Notes on level of detail in outline|  |  |  
-|Instructor|  |  |  
+|Notes on level of detail in outline| A paragraph explaining what will be covered. No explicit schedule. | A paragraph explaining what will be covered. No explicit schedule. |  
+|Instructor| Christine Muschik | Christine Muschik |  
 
 *X = Explicitly stated in course outline
