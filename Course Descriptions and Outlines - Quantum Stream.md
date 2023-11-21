@@ -26,7 +26,7 @@ W22: https://outline.uwaterloo.ca/view/n974gg
 An introductory course in modern physics; includes relativity, quantum physics, atomic physics, nuclear physics, particle physics and gravitation. [Offered: W]  
 Prereq: One of PHYS 111 (minimum grade 70%), 115, 121, ECE 105.  
 Coreq: PHYS 112 or 122  
-
+ 
 
 **Outlines**  
 W23: Not online (Robert Mann)  
