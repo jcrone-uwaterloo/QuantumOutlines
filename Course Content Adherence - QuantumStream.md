@@ -27,24 +27,27 @@
 |nuclear physics| | |
 |particle physics| | |
 |gravitation| | |
-|Notes on level of detail in outline|  |  |
-|Instructor|  |  |
+|Notes on level of detail in outline|Outline not currently available (request sent)|Outline not currently available (request sent)|
+|Instructor| Crystal Senko | Robert Mann |
 
 *X = Explicitly stated in course outline
 
 # PHYS 234
 |     | W22 | S22 | W23 | S23 |
 | --- | --- | --- | --- | --- |
-|Background of quantum physics. |  |  |  |  |  
-|Introduction to formalism of quantum physics. |  |  |  |  |
-|Introduction to operators. |  |  |  |  |
-|Quantization, waves, and particles. |  |  |  |  |
-|The uncertainty principle. |  |  |  |  |
-|The Schroedinger equation for one-dimensional problems: bound states in square wells, harmonic oscillator, transmission through barriers.|  |  |  |  |
-|Notes on level of detail in outline|  | Outline not currently available (request sent) | Outline not currently available (request sent) | Broad topic given for 2-3 week chunks of course|
+|Background of quantum physics. | X |  | X | X |  
+|Introduction to formalism of quantum physics. | X |  | X | X |
+|Introduction to operators. | X |  | X | O |
+|Quantization, waves, and particles. | X |  | X | O |
+|The uncertainty principle. | X |  | X | O |
+|The Schroedinger equation for one-dimensional problems: bound states in square wells, harmonic oscillator, transmission through barriers.| X |  | X | X (no specific systems mentioned) |
+|Notes on level of detail in outline|  | Outline not currently available (request sent) | Week-by-week breakdown of course content | Broad topic given for 2-3 week chunks of course|
 |Instructor| Kazi Rajibul Islam | Michel Gingras | Raffi Budakian | Russell Thompson |
 
-*X = Explicitly stated in course outline
+*X = Explicitly stated in course outline  
+*O = Implicit/inferred from course outline  
+*+ = Possibly included, but not clear from outline  
+
 
 # PHYS 334
 |     | W22  | W23 | 
@@ -78,7 +81,7 @@
 |Lamb shift. |  |  |
 |Elements of scattering theory. |  |  |
 |Introduction to the Dirac equation|  |  |
-|Notes on level of detail in outline| A paragraph explaining what will be covered. No explicit schedule. | A paragraph explaining what will be covered. No explicit schedule. |  
+|Notes on level of detail in outline| A paragraph explaining what will be covered. No explicit schedule. | A paragraph explaining what will be covered. Week-by-week schedule given. |  
 |Instructor| Christine Muschik | Christine Muschik |  
 
 *X = Explicitly stated in course outline
