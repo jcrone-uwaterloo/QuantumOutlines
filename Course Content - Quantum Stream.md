@@ -38,7 +38,7 @@
 |4   |	Feb. 6th 	|Operators, Eigenstates and Eigenvalues Expectation values|
 |5   |	Feb. 13th |	Mixed State, Density Operator, Projection operators Commutators and Uncertainty|
 |6   |	Feb. 19th |	Reading Week|
-|7   |	Feb. 27th |	Time dependence, Schrodinger Equation Dynamics for Mme indep. Hamiltonian|
+|7   |	Feb. 27th |	Time dependence, Schrodinger Equation Dynamics for Time indep. Hamiltonian|
 |8   |	Mar. 6th 	|Spin Precession, Magnetic Resonance|
 |9   |	Mar. 13th |	Continuous Observables in QM Wavefunctions and wave mechanics|
 |10  | 	Mar. 20th |	Infinite Potential Well|
