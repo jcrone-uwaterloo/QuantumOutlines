@@ -41,7 +41,7 @@
 |Quantization, waves, and particles. | X |  | X | O |
 |The uncertainty principle. | X |  | X | O |
 |The Schroedinger equation for one-dimensional problems: bound states in square wells, harmonic oscillator, transmission through barriers.| X |  | X | X (no specific systems mentioned) |
-|Notes on level of detail in outline|  | Outline not currently available (request sent) | Week-by-week breakdown of course content | Broad topic given for 2-3 week chunks of course|
+|Notes on level of detail in outline| Week-by-week breakdown of course content | Outline not currently available (request sent) | Week-by-week breakdown of course content | Broad topic given for 2-3 week chunks of course|
 |Instructor| Kazi Rajibul Islam | Michel Gingras | Raffi Budakian | Russell Thompson |
 
 *X = Explicitly stated in course outline  
