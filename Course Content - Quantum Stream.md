@@ -1,4 +1,5 @@
 # PHYS 122  
+Currently omitted due to length. Can transfer over from E&M stream on request.
 ## W22
 ## S22
 ## W23
